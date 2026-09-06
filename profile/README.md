@@ -1,12 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79a11abd-1fc0-454c-9215-f91dffee77fe" width="350" alt="Header Image" />
+  <br /><br />
+  <strong>A group that operates in Japan and may occasionally do Browser development.</strong>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
